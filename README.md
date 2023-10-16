@@ -1,5 +1,5 @@
 <h1 align="center">Rafael Oliveira</h1>
-<h3 align="center">Sou desenvolvedor Java, PHP e estudante de Ciências de dados</h3>
+<h3 align="center">Sou desenvolvedor Java, PHP e Analista em Ciências de dados</h3>
 
 
 
